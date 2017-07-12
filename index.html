@@ -22,40 +22,72 @@
     <!-- datatable css -->
     <link href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css" rel="stylesheet">
 
-
-
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <!-- sofiapro-light -->
+    <link href="css/stylesheet.css" rel="stylesheet">
   </head>
   <body>
 
-    <div id="chart"></div>
+    <div id="guides">
+    <div class="guide">
+    <div class="header">
+      <h1 class="skimm-logo">
+        <span class="teal">theSkimm's</span> Guide to
+      </h1>
+      <h1 class="title">Immigration Services in NYC</h1>
+      <img class="guides-header" id="header" src="images/nyc-header.jpg">
+      <span class="photo-credit">PHOTO BY <a href="https://unsplash.com/photos/wDMr6daPXfA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">AARON BURSON</a> ON <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">UNSPLASH</a></span>
 
-    <!-- data table -->
-    <table id="example" class="display" cellspacing="0" width="100%">
-        <thead>
-            <tr>
-                <th>Program</th>
-                <th>Site Name</th>
-                <th>Borough/Community</th>
-                <th>Agency</th>
-                <th>Contact Number</th>
-                <th>Grade Level/Age Group</th>
-                <th>Location</th>
-            </tr>
-        </thead>
-        <tfoot>
-            <tr>
-                <th>Program</th>
-                <th>Site Name</th>
-                <th>Borough/Community</th>
-                <th>Agency</th>
-                <th>Contact Number</th>
-                <th>Grade Level/Age Group</th>
-                <th>Location</th>
-            </tr>
-        </tfoot>
-    </table>
+      <!-- end .header -->
+      </div>
+
+      <div class="body">
+        <h2>THE BREAKDOWN</h2>
+        <div id="pieChart"></div>
+        <p>As of June 2016, a third of New York's Department of Youth and Community Development (DYCD) focuses on <strong>legal assistance and services</strong>. The next largest section goes toward <strong>domestic violence</strong> among immigrant families. <strong>Services for immigrant families</strong> are designed to help immigrant parents of English Language Learners (ELL) in grades 6 through 12 understand the requirements of the New York City school system and take an active role in their children's education. General <strong>immigrant/refugee assistance</strong> can involve accessing government benefits, job applications, healthcare, and civics classes in preparation for citizenship. <strong>NDA immigrants</strong> live in neighborhood development areas, and the DYCD distributes grant money to these neighborhood pockets to aid with social services.</p>
+        <h2>THE LOCATIONS</h2>
+        <div class="embed-container"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=13JwY5Sr1B2YsEqhTQghVih8qYo0" width="640" height="480"></iframe></div>
+        <h2>BRONX VS. BROOKLYN</h2>
+        <div id="barChart"></div>
+        <h2>CRUNCH DA NUMBERS</h2>
+        <!-- data table -->
+          <table id="example" class="display" cellspacing="0" width="100%">
+            <thead>
+                <tr>
+                    <th>Program</th>
+                    <th>Site Name</th>
+                    <th>Borough/Community</th>
+                    <th>Agency</th>
+                    <th>Contact Number</th>
+                    <th>Grade Level/Age Group</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Program</th>
+                    <th>Site Name</th>
+                    <th>Borough/Community</th>
+                    <th>Agency</th>
+                    <th>Contact Number</th>
+                    <th>Grade Level/Age Group</th>
+                    <th>Location</th>
+                </tr>
+          </tfoot>
+        </table>
+
+      <!-- end .body -->
+      </div>
+
+  <!-- end .guide -->
+    </div>
+
+  <!-- end #guides -->
+  </div>
 
     <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
