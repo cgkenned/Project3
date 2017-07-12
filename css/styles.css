@@ -1,0 +1,123 @@
+body {
+    font-family: 'Raleway', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    color: #333333;
+    background-color: white;
+    font-size: 16px;
+  }
+
+div {
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #009f9b;
+}
+
+a:hover {
+    color: #fff100;
+    text-decoration: none;
+}
+
+#guides {
+    max-width: 890px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#guides .guide {
+    padding-top: 40px;
+    max-width: 700px;
+    width: 100%;
+    margin: auto;
+}
+
+#guides .guide .header h1.skimm-logo {
+    border-bottom: 2px solid lightgrey;
+    max-width: 700px;
+    font-size: 34px;
+    font-weight: 500;
+}
+
+#guides .guide .header h1 {
+    font-size: 30px;
+    font-weight: 600;
+    width: 100%;
+    text-align: center;
+    line-height: normal;
+}
+
+.skimm-logo {
+    font-family: 'sofiapro-light', 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+#guides .guide .header h1 .teal {
+    color: #009f9b;
+}
+
+#guides .guide .header img.guides-header {
+    max-width: 550px;
+    margin: 5px auto;
+}
+
+#guides .guide img {
+    display: block;
+    width: 100%;
+}
+
+#header {
+    text-align: center;
+}
+
+img {
+    vertical-align: middle;
+    border: 0;
+}
+
+#guides .guide .header span.photo-credit {
+    font-size: 12px;
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+}
+
+#guides .guide .body h2:first-child {
+    margin-top: 0;
+}
+
+#guides .guide .body h2 {
+    font: 18px Raleway, sans-serif;
+    font-weight: 900;
+    color: white;
+    text-align: left;
+    letter-spacing: normal;
+    width: 100%;
+    padding: 15px;
+    background-color: #009f9b;
+}
+
+#guides .guide .body p {
+    font: normal 18px -apple-system, BlinkMacSystemFont, sans-serif;
+    padding: 0;
+    padding-left: 15px;
+    margin: 15px 0;
+    text-align: left;
+    line-height: 1.4em;
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe .embed-container object .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
