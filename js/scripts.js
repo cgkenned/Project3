@@ -26,8 +26,9 @@ $(document).ready(function() {
     bindto: '#barChart',
       data: {
           columns: [
-              ['Bronx', 30, 200, 100, 400, 150, 250],
-              ['Brooklyn', 130, 100, 140, 200, 150, 50]
+              ['Non-Latino or Asian', 0.839, 0.794, 0.737],
+              ['Latino', 0.123, 0.151, 0.184],
+              ['Asian', 0.038, 0.055, 0.079]
           ],
           type: 'bar'
       },
