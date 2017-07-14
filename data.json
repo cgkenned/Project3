@@ -5,7 +5,7 @@
     "BOROUGH / COMMUNITY": "Bronx",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212.613.5098",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "750 Astor Avenue\nBronx, NEW YORK 10467\n(40.859547368357966, -73.86555918636485)"
   },
   {
@@ -14,7 +14,7 @@
     "BOROUGH / COMMUNITY": "Bronx",
     "AGENCY": "The Legal Aid Society",
     "Contact Number": "718.991.4758",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "953 Southern Blvd\nBronx, NEW YORK 10459\n(40.82138697876596, -73.89168233735057)"
   },
   {
@@ -23,7 +23,6 @@
     "BOROUGH / COMMUNITY": "Bronx",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212-613-5000",
-    "Grade Level / Age Group": "All Ages",
     "Location": "377 145th St\nBronx, NEW YORK 10454\n(40.81385583017525, -73.92035529273)"
   },
   {
@@ -32,8 +31,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212.613.5000",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "7802 Bay Parkway\nBrooklyn, NEW YORK 11214\n(40.606424326705934, -73.98919274272059)"
+        "Location": "7802 Bay Parkway\nBrooklyn, NEW YORK 11214\n(40.606424326705934, -73.98919274272059)"
   },
   {
     "PROGRAM": "Domestic Violence Program",
@@ -41,7 +39,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212.613.5098",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "060280 Brooklyn\nNEW YORK 11206\n(40.70191201682616, -73.94237919854112)"
   },
   {
@@ -50,7 +48,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "The Legal Aid Society",
     "Contact Number": "718.422.2765",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "111 Livingston St\nBrooklyn, NEW YORK 11201\n(40.69109687573092, -73.98955322065659)"
   },
   {
@@ -59,7 +57,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212.613.5000",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "3300 Coney Island Av\nBrooklyn, NEW YORK 11235\n(40.575793969703795, -73.95950745079742)"
   },
   {
@@ -68,8 +66,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "718-646-1444",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "3300 Coney Island Av\nBrooklyn, NEW YORK 11235\n(40.575793969703795, -73.95950745079742)"
+        "Location": "3300 Coney Island Av\nBrooklyn, NEW YORK 11235\n(40.575793969703795, -73.95950745079742)"
   },
   {
     "PROGRAM": "Domestic Violence Program",
@@ -77,8 +74,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212-613-5000",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "419 Church Ave\nBrooklyn, NEW YORK 11218\n(40.64409707953028, -73.97640972645803)"
+        "Location": "419 Church Ave\nBrooklyn, NEW YORK 11218\n(40.64409707953028, -73.97640972645803)"
   },
   {
     "PROGRAM": "Domestic Violence Program",
@@ -86,8 +82,7 @@
     "BOROUGH / COMMUNITY": "Forest Hills",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212-613-5000",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "119 45 Union Turnpike\nForest Hills, NEW YORK 11375\n(40.720707263029794, -73.84628429608335)"
+        "Location": "119 45 Union Turnpike\nForest Hills, NEW YORK 11375\n(40.720707263029794, -73.84628429608335)"
   },
   {
     "PROGRAM": "Domestic Violence Program",
@@ -95,8 +90,7 @@
     "BOROUGH / COMMUNITY": "Jamaica",
     "AGENCY": "Safe Space",
     "Contact Number": "212.206.3440 ext. 237",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "163 18 Jamaica Av\nJamaica, NEW YORK 11432\n(40.71311535449007, -73.79282099978928)"
+        "Location": "163 18 Jamaica Av\nJamaica, NEW YORK 11432\n(40.71311535449007, -73.79282099978928)"
   },
   {
     "PROGRAM": "Domestic Violence Program",
@@ -104,7 +98,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212.613.5098",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "594 Manhattan\nNEW YORK 10018\n(40.756840774582145, -73.99669149981281)"
   },
   {
@@ -113,8 +107,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212.613.5000",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "450 33rd St\nManhattan, NEW YORK 10001\n(40.75347794565972, -73.99864692871675)"
+        "Location": "450 33rd St\nManhattan, NEW YORK 10001\n(40.75347794565972, -73.99864692871675)"
   },
   {
     "PROGRAM": "Domestic Violence Program",
@@ -122,8 +115,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Sanctuary for Families",
     "Contact Number": "212.349.6009",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "1406 Wall Street Station\nManhattan, NEW YORK 10268\n(40.70545300025583, -74.00695600011926)"
+        "Location": "1406 Wall Street Station\nManhattan, NEW YORK 10268\n(40.70545300025583, -74.00695600011926)"
   },
   {
     "PROGRAM": "Domestic Violence Program",
@@ -131,8 +123,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Safe Space",
     "Contact Number": "212.206.3440 ext. 237",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "3 29th Street\nManhattan, NEW YORK 10001\n(40.74552271604756, -73.987242979944)"
+        "Location": "3 29th Street\nManhattan, NEW YORK 10001\n(40.74552271604756, -73.987242979944)"
   },
   {
     "PROGRAM": "Domestic Violence Program",
@@ -140,7 +131,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "New York Legal Assistance Group (NYLAG)",
     "Contact Number": "212.613.5098",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "629 Far\nQueens, NEW YORK 11691\n(40.600614338480966, -73.76256777468302)"
   },
   {
@@ -149,8 +140,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Safe Space",
     "Contact Number": "718.785.9062",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "90 25 161st Street\nQueens, NEW YORK 11432\n(40.71311535449007, -73.79282099978928)"
+        "Location": "90 25 161st Street\nQueens, NEW YORK 11432\n(40.71311535449007, -73.79282099978928)"
   },
   {
     "PROGRAM": "Immigrant/Refugee Assistance",
@@ -158,8 +148,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Southside Community Mission, Inc.",
     "Contact Number": "718.782.8181 or 718.387.6052",
-    "Grade Level / Age Group": "ESOL/Civics",
-    "Location": "250 Hooper Street\nBrooklyn, NEW YORK 11211\n(40.70581785170525, -73.9556640768342)"
+        "Location": "250 Hooper Street\nBrooklyn, NEW YORK 11211\n(40.70581785170525, -73.9556640768342)"
   },
   {
     "PROGRAM": "Immigrant/Refugee Assistance",
@@ -167,7 +156,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Council of Jewish Organizations of Flatbush (COJO)",
     "Contact Number": "718.377.2900",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "1550 Coney Island Avenue\nBrooklyn, NEW YORK 11230\n(40.61969757437525, -73.96431415429318)"
   },
   {
@@ -176,7 +165,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Southside Community Mission, Inc.",
     "Contact Number": "718.782.8181 or 718.387.6052",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "280 Marcy Avenue\nBrooklyn, NEW YORK 11211\n(40.70499449388848, -73.95589166067984)"
   },
   {
@@ -185,7 +174,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Shorefront Jewish Community Council",
     "Contact Number": "718.743.0575",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "1413 Avenue\nBrooklyn, NEW YORK 11229\n(40.60123350732056, -73.94436854117521)"
   },
   {
@@ -194,7 +183,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Shorefront Jewish Community Council",
     "Contact Number": "718.743.0575",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "2600 Ocean Avenue\nBrooklyn, NEW YORK 11229\n(40.598089925353555, -73.95126983806618)"
   },
   {
@@ -203,8 +192,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Henry Street Settlement, Inc.",
     "Contact Number": "212.766.9200",
-    "Grade Level / Age Group": "ESOL/Civics",
-    "Location": "99 Essex Street\nManhattan, NEW YORK 10002\n(40.71844741559961, -73.98830122278652)"
+        "Location": "99 Essex Street\nManhattan, NEW YORK 10002\n(40.71844741559961, -73.98830122278652)"
   },
   {
     "PROGRAM": "Immigrant/Refugee Assistance",
@@ -212,8 +200,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Make the Road New York",
     "Contact Number": "718.565.8500",
-    "Grade Level / Age Group": "ESOL/Civics",
-    "Location": "71 24 Roosevelt Avenue\nQueens, NEW YORK 11372\n(40.75163073936716, -73.88361254528269)"
+        "Location": "71 24 Roosevelt Avenue\nQueens, NEW YORK 11372\n(40.75163073936716, -73.88361254528269)"
   },
   {
     "PROGRAM": "Immigrant/Refugee Assistance",
@@ -221,7 +208,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Queens Community House, Inc.",
     "Contact Number": "718.592.5757 or 718.898.7461",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "74 09 37th Avenue (Jackson Heights\nQueens, NEW YORK 11372\n(40.75163073936716, -73.88361254528269)"
   },
   {
@@ -230,8 +217,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Jackson Heights-Elmhust Kehilah, Inc.",
     "Contact Number": "718.457.4591",
-    "Grade Level / Age Group": "ESOL/Civics",
-    "Location": "33 47 91st Street (Jackson Heights\nQueens, NEW YORK 11372\n(40.75163073936716, -73.88361254528269)"
+        "Location": "33 47 91st Street (Jackson Heights\nQueens, NEW YORK 11372\n(40.75163073936716, -73.88361254528269)"
   },
   {
     "PROGRAM": "Immigrant/Refugee Assistance",
@@ -239,8 +225,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Make the Road New York",
     "Contact Number": "718.565.8500",
-    "Grade Level / Age Group": "ESOL/Civics",
-    "Location": "49 06 Skillman Avenue\nQueens, NEW YORK 11377\n(40.74519376448069, -73.9048471440804)"
+        "Location": "49 06 Skillman Avenue\nQueens, NEW YORK 11377\n(40.74519376448069, -73.9048471440804)"
   },
   {
     "PROGRAM": "Immigrant/Refugee Assistance",
@@ -248,8 +233,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Flushing Jewish Community Council",
     "Contact Number": "718.463.0434",
-    "Grade Level / Age Group": "ESOL/Civics",
-    "Location": "135 33 38th Avenue\nQueens, NEW YORK 11354\n(40.76862022064671, -73.82719028070687)"
+        "Location": "135 33 38th Avenue\nQueens, NEW YORK 11354\n(40.76862022064671, -73.82719028070687)"
   },
   {
     "PROGRAM": "Immigrant/Refugee Assistance",
@@ -257,7 +241,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Asian Americans for Equality - Queens",
     "Contact Number": "718.961.0888 or 212.979.8381",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "133 04 39th Avenue\nQueens, NEW YORK 11354\n(40.76862022064671, -73.82719028070687)"
   },
   {
@@ -266,8 +250,7 @@
     "BOROUGH / COMMUNITY": "Bronx",
     "AGENCY": "Citizens Advice Bureau",
     "Contact Number": "718- 293-0727",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "2070 Grand Concourse\nBronx, NEW YORK 10457\n(40.85309059209145, -73.90280877587541)"
+        "Location": "2070 Grand Concourse\nBronx, NEW YORK 10457\n(40.85309059209145, -73.90280877587541)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -275,8 +258,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "The Legal Aid Society",
     "Contact Number": "212-577-3292",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "256 Kingston Avenue\nBrooklyn, NEW YORK 11213\n(40.67079925857397, -73.94209318254946)"
+        "Location": "256 Kingston Avenue\nBrooklyn, NEW YORK 11213\n(40.67079925857397, -73.94209318254946)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -284,8 +266,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Sanctuary for Families",
     "Contact Number": "212-349-6009",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "350 Jay Street\nBrooklyn, NEW YORK 11201\n(40.69351957615995, -73.98726442001791)"
+        "Location": "350 Jay Street\nBrooklyn, NEW YORK 11201\n(40.69351957615995, -73.98726442001791)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -293,8 +274,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "CAMBA, Inc.",
     "Contact Number": "718-940-6311",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "2211 Church Av\nBrooklyn, NEW YORK 11226\n(40.65044686678422, -73.95854532388019)"
+        "Location": "2211 Church Av\nBrooklyn, NEW YORK 11226\n(40.65044686678422, -73.95854532388019)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -302,8 +282,7 @@
     "BOROUGH / COMMUNITY": "Kew Gardens",
     "AGENCY": "Sanctuary for Families",
     "Contact Number": "212-349-6009",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "126 02 82nd Ave\nKew Gardens, NEW YORK 11415\n(40.708286075142325, -73.82855612156771)"
+        "Location": "126 02 82nd Ave\nKew Gardens, NEW YORK 11415\n(40.708286075142325, -73.82855612156771)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -311,8 +290,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Northern Manhattan              Improvement Corporation",
     "Contact Number": "212-822-8319",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "76 Wadsworth Avenue\nManhattan, NEW YORK 10033\n(40.84705167605878, -73.93704472494271)"
+        "Location": "76 Wadsworth Avenue\nManhattan, NEW YORK 10033\n(40.84705167605878, -73.93704472494271)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -320,8 +298,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Catholic Charities Community Service, Archdiocese of N Y",
     "Contact Number": "212-348-0488",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "125 105th Street\nManhattan, NEW YORK 10029\n(40.79190439287778, -73.9475075400997)"
+        "Location": "125 105th Street\nManhattan, NEW YORK 10029\n(40.79190439287778, -73.9475075400997)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -329,8 +306,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Sanctuary for Families",
     "Contact Number": "212-349-6009",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "1406 Wall Street Station\nManhattan, NEW YORK 10268\n(40.70545300025583, -74.00695600011926)"
+        "Location": "1406 Wall Street Station\nManhattan, NEW YORK 10268\n(40.70545300025583, -74.00695600011926)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -338,8 +314,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Catholic Charities Community Service, Archdiocese of N Y",
     "Contact Number": "212-419-3700",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "4111 Broadway\nManhattan, NEW YORK 10033\n(40.845160338750205, -73.93878884162382)"
+        "Location": "4111 Broadway\nManhattan, NEW YORK 10033\n(40.845160338750205, -73.93878884162382)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -347,8 +322,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "The Legal Aid Society",
     "Contact Number": "212-577-3292",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "199 Water Street\nManhattan, NEW YORK 10038\n(40.70708573646016, -74.00463169395886)"
+        "Location": "199 Water Street\nManhattan, NEW YORK 10038\n(40.70708573646016, -74.00463169395886)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -356,8 +330,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Northern Manhattan   Improvement Corporation",
     "Contact Number": "212-822-8319",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "62 Mott St\nManhattan, NEW YORK 10013\n(40.71607633471377, -73.9981586658295)"
+        "Location": "62 Mott St\nManhattan, NEW YORK 10013\n(40.71607633471377, -73.9981586658295)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -365,8 +338,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Catholic Charities Community Service, Archdiocese of N Y",
     "Contact Number": "212-419-3700",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "1011 First Avenue\nManhattan, NEW YORK 10022\n(40.7572783324888, -73.96371387829234)"
+        "Location": "1011 First Avenue\nManhattan, NEW YORK 10022\n(40.7572783324888, -73.96371387829234)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -374,8 +346,7 @@
     "BOROUGH / COMMUNITY": "Manhattan,Bronx,Queens,Staten Island, Brooklyn",
     "AGENCY": "Safe Horizon, Inc.",
     "Contact Number": "",
-    "Grade Level / Age Group": "All Ages",
-    "Location": ""
+        "Location": ""
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -383,8 +354,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "The Legal Aid Society",
     "Contact Number": "212-577-3292",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "108 25 62nd Drive\nQueens, NEW YORK 11375\n(40.720707263029794, -73.84628429608335)"
+        "Location": "108 25 62nd Drive\nQueens, NEW YORK 11375\n(40.720707263029794, -73.84628429608335)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -392,8 +362,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Research Foundation of CUNY",
     "Contact Number": "718-640-9223",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "39 07 Prince St\nQueens, NEW YORK 11354\n(40.76862022064671, -73.82719028070687)"
+        "Location": "39 07 Prince St\nQueens, NEW YORK 11354\n(40.76862022064671, -73.82719028070687)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -401,8 +370,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Research Foundation of CUNY",
     "Contact Number": "718-482-5139",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "166 Queens\nNEW YORK 11101\n(40.74570244980828, -73.93866902925225)"
+        "Location": "166 Queens\nNEW YORK 11101\n(40.74570244980828, -73.93866902925225)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -410,8 +378,7 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "Research Foundation of CUNY",
     "Contact Number": "718-262-2983",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "20 Guy R Brewer Blvd\nQueens, NEW YORK 11451\n(40.70259499975947, -73.79562300040112)"
+        "Location": "20 Guy R Brewer Blvd\nQueens, NEW YORK 11451\n(40.70259499975947, -73.79562300040112)"
   },
   {
     "PROGRAM": "Legal Assistance Program",
@@ -419,8 +386,7 @@
     "BOROUGH / COMMUNITY": "Staten Island",
     "AGENCY": "Catholic Charities Community Service, Archdiocese of N Y",
     "Contact Number": "718-420-6466 646-772-0096",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "1546 Castleton Avenue\nStaten Island, NEW YORK 10302\n(40.63589249589933, -74.13449607767508)"
+        "Location": "1546 Castleton Avenue\nStaten Island, NEW YORK 10302\n(40.63589249589933, -74.13449607767508)"
   },
   {
     "PROGRAM": "Legal Services",
@@ -428,8 +394,7 @@
     "BOROUGH / COMMUNITY": "Manhattan,Bronx,Queens,Staten Island, Brooklyn",
     "AGENCY": "Sanctuary for Families, Inc.",
     "Contact Number": "212.349.6009           ext. 264",
-    "Grade Level / Age Group": "All Ages",
-    "Location": ""
+        "Location": ""
   },
   {
     "PROGRAM": "Legal Services",
@@ -437,8 +402,7 @@
     "BOROUGH / COMMUNITY": "Manhattan,Bronx,Queens,Staten Island, Brooklyn",
     "AGENCY": "Sanctuary for Families, Inc.",
     "Contact Number": "212.349.6009           ext. 264",
-    "Grade Level / Age Group": "All Ages",
-    "Location": ""
+        "Location": ""
   },
   {
     "PROGRAM": "Legal Services - Immigrant Youth",
@@ -446,8 +410,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Urban Justice Center",
     "Contact Number": "646-602-5633",
-    "Grade Level / Age Group": "20-May",
-    "Location": "527 22nd Street\nManhattan, NEW YORK 10011\n(40.74739972392154, -74.00552562193494)"
+        "Location": "527 22nd Street\nManhattan, NEW YORK 10011\n(40.74739972392154, -74.00552562193494)"
   },
   {
     "PROGRAM": "Legal Services - Immigrant Youth",
@@ -455,8 +418,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Urban Justice Center",
     "Contact Number": "646.602.5633",
-    "Grade Level / Age Group": "20-May",
-    "Location": "2 Astor Place\nManhattan, NEW YORK 10003\n(40.73004972130843, -73.99278994498403)"
+        "Location": "2 Astor Place\nManhattan, NEW YORK 10003\n(40.73004972130843, -73.99278994498403)"
   },
   {
     "PROGRAM": "Legal Services - Immigrant Youth",
@@ -464,8 +426,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "The Legal Aid Society",
     "Contact Number": "212.577.3328",
-    "Grade Level / Age Group": "20-May",
-    "Location": "199 Water Street\nManhattan, NEW YORK 10038\n(40.70708573646016, -74.00463169395886)"
+        "Location": "199 Water Street\nManhattan, NEW YORK 10038\n(40.70708573646016, -74.00463169395886)"
   },
   {
     "PROGRAM": "Legal Services - Immigrant Youth",
@@ -473,8 +434,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "The Door - A Center of Alternatives",
     "Contact Number": "212-941-9090 ext. 3280",
-    "Grade Level / Age Group": "20-May",
-    "Location": "121 6th Avenue\nManhattan, NEW YORK 10013\n(40.72398399739069, -74.00464968039944)"
+        "Location": "121 6th Avenue\nManhattan, NEW YORK 10013\n(40.72398399739069, -74.00464968039944)"
   },
   {
     "PROGRAM": "Legal Services - Immigrant Youth",
@@ -482,8 +442,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Urban Justice Center",
     "Contact Number": "646-602-5633",
-    "Grade Level / Age Group": "20-May",
-    "Location": "209 125 Street\nManhattan, NEW YORK 10027\n(40.809154206198805, -73.94868347483566)"
+        "Location": "209 125 Street\nManhattan, NEW YORK 10027\n(40.809154206198805, -73.94868347483566)"
   },
   {
     "PROGRAM": "Legal Services - Immigrant Youth",
@@ -491,8 +450,7 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Urban Justice Center",
     "Contact Number": "646-602-5633",
-    "Grade Level / Age Group": "20-May",
-    "Location": "123 William Street\nManhattan, NEW YORK 10038\n(40.70909122458545, -74.006906978693)"
+        "Location": "123 William Street\nManhattan, NEW YORK 10038\n(40.70909122458545, -74.006906978693)"
   },
   {
     "PROGRAM": "NDA Immigrants",
@@ -500,8 +458,7 @@
     "BOROUGH / COMMUNITY": "Bronx",
     "AGENCY": "Citizens Advice Bureau",
     "Contact Number": "718-365-0910",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "1477 Townsend Ave\nBronx, NEW YORK 10452\n(40.841513488175195, -73.9156620372896)"
+        "Location": "1477 Townsend Ave\nBronx, NEW YORK 10452\n(40.841513488175195, -73.9156620372896)"
   },
   {
     "PROGRAM": "NDA Immigrants",
@@ -509,7 +466,7 @@
     "BOROUGH / COMMUNITY": "Bronx",
     "AGENCY": "Catholic Charities Community Service, Archdiocese of N Y",
     "Contact Number": "718-365-4360",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "2342 Andrews Av (near Fordham Rd\nBronx, NEW YORK 10468\n(40.869693003729196, -73.89892699248668)"
   },
   {
@@ -518,7 +475,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Federation of Employment and Guidance Services, Inc.",
     "Contact Number": "718-336-2836x330",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "938 Kings Highway\nBrooklyn, NEW YORK 11233\n(40.60700851986621, -73.96282101223699)"
   },
   {
@@ -527,8 +484,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "United Communities Centers",
     "Contact Number": "718-649-7979",
-    "Grade Level / Age Group": "All Ages",
-    "Location": "613 New Lots Ave\nBrooklyn, NEW YORK 11207\n(40.66472649825768, -73.88659110359023)"
+        "Location": "613 New Lots Ave\nBrooklyn, NEW YORK 11207\n(40.66472649825768, -73.88659110359023)"
   },
   {
     "PROGRAM": "NDA Immigrants",
@@ -536,7 +492,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Make the Road New York",
     "Contact Number": "718-418-7690 X 205",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "391 Grove Street\nBrooklyn, NEW YORK 11237\n(40.7008190928138, -73.91333075450414)"
   },
   {
@@ -545,7 +501,7 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Goodwill Industries of Greater New York",
     "Contact Number": "718-339-0939",
-    "Grade Level / Age Group": "Adult",
+
     "Location": "1222 Avenue M\nBrooklyn, NEW YORK 11230\n(40.61772526251982, -73.96227992950067)"
   },
   {
@@ -554,7 +510,6 @@
     "BOROUGH / COMMUNITY": "Jackson Heights",
     "AGENCY": "Make the Road New York",
     "Contact Number": "718-418-7690 X 205",
-    "Grade Level / Age Group": "Adult",
     "Location": "92 10 Roosevelt Avenue\nJackson Heights, NEW YORK 13372\n(40.751979000030815, -73.88282399992767)"
   },
   {
@@ -563,7 +518,6 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Northern Manhattan              Improvement Corporation",
     "Contact Number": "212-822-8300",
-    "Grade Level / Age Group": "All Ages",
     "Location": "76 Wadsworth Avenue\nManhattan, NEW YORK 10033\n(40.84705167605878, -73.93704472494271)"
   },
   {
@@ -572,7 +526,6 @@
     "BOROUGH / COMMUNITY": "Staten Island",
     "AGENCY": "Make the Road New York",
     "Contact Number": "718-727-1222 718 418-7690 X 205",
-    "Grade Level / Age Group": "Adult",
     "Location": "479 Port Richmond Avenue\nStaten Island, NEW YORK 10302\n(40.63093452909704, -74.13901464968129)"
   },
   {
@@ -581,7 +534,6 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Goodwill Industries of Greater New York",
     "Contact Number": "718- 339-0939",
-    "Grade Level / Age Group": "Adult",
     "Location": "1416 Avenue M\nBrooklyn, NEW YORK 11230\n(40.61789996472653, -73.96077504128672)"
   },
   {
@@ -590,7 +542,6 @@
     "BOROUGH / COMMUNITY": "Bronx",
     "AGENCY": "Big Brothers/Big Sisters, Inc.",
     "Contact Number": "212.994.7742",
-    "Grade Level / Age Group": "14-Nov",
     "Location": "555 Bergen Avenue\nBronx, NEW YORK 10455\n(40.81594441525443, -73.91641591148277)"
   },
   {
@@ -599,7 +550,6 @@
     "BOROUGH / COMMUNITY": "Bronx",
     "AGENCY": "Children's Arts & Science Workshops, Inc.",
     "Contact Number": "212-923-7766",
-    "Grade Level / Age Group": "All Ages",
     "Location": "99 Terrace View Avenue\nBronx, NEW YORK 10463\n(40.877210772673564, -73.91213621128965)"
   },
   {
@@ -608,7 +558,6 @@
     "BOROUGH / COMMUNITY": "Bronx",
     "AGENCY": "Alianza Dominicana, Inc.",
     "Contact Number": "212.740.1960",
-    "Grade Level / Age Group": "18+",
     "Location": "1257 Ogden Avenue\nBronx, NEW YORK 10452\n(40.83927054580515, -73.92578827979769)"
   },
   {
@@ -617,7 +566,6 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Goodwill Industries of Greater New York",
     "Contact Number": "718.339.0937",
-    "Grade Level / Age Group": "11+",
     "Location": "1416 Avenue\nBrooklyn, NEW YORK 11230\n(40.62192951023877, -73.96551106018723)"
   },
   {
@@ -626,7 +574,6 @@
     "BOROUGH / COMMUNITY": "Brooklyn",
     "AGENCY": "Big Brothers/Big Sisters, Inc.",
     "Contact Number": "212.994.7742",
-    "Grade Level / Age Group": "14-Nov",
     "Location": "280 Shepherd Avenue\nBrooklyn, NEW YORK 11208\n(40.67773088441804, -73.88173831485612)"
   },
   {
@@ -635,7 +582,6 @@
     "BOROUGH / COMMUNITY": "Jamaica",
     "AGENCY": "Big Brothers/Big Sisters, Inc.",
     "Contact Number": "212.994.7742",
-    "Grade Level / Age Group": "14-Nov",
     "Location": "89 56 162nd Street\nJamaica, NEW YORK 11432\n(40.71311535449007, -73.79282099978928)"
   },
   {
@@ -644,7 +590,6 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Children's Arts & Science Workshops, Inc.",
     "Contact Number": "212-923-7766",
-    "Grade Level / Age Group": "All Ages",
     "Location": "549 Audubon Avenue\nManhattan, NEW YORK 10040\n(40.856389753646916, -73.92672451121956)"
   },
   {
@@ -653,7 +598,6 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Children's Arts & Sciences Workshops",
     "Contact Number": "212-923-7766",
-    "Grade Level / Age Group": "11+",
     "Location": "686 204th Street\nManhattan, NEW YORK 10034\n(40.867820783175965, -73.92367507747998)"
   },
   {
@@ -662,7 +606,6 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Cabrini Center for Nursing & Rehabilitation",
     "Contact Number": "212.791.4590",
-    "Grade Level / Age Group": "18+",
     "Location": "139 Henry Street\nManhattan, NEW YORK 10002\n(40.713327031343454, -73.99078213470762)"
   },
   {
@@ -671,7 +614,6 @@
     "BOROUGH / COMMUNITY": "Manhattan",
     "AGENCY": "Big Brothers/Big Sisters, Inc.",
     "Contact Number": "212.994.7742",
-    "Grade Level / Age Group": "14-Nov",
     "Location": "223 30th Street\nManhattan, NEW YORK 10033\n(40.85621992920642, -73.94585900019268)"
   },
   {
@@ -680,7 +622,6 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "New Immigrant Community Empowerment (NICE)",
     "Contact Number": "718.205.8796",
-    "Grade Level / Age Group": "18+",
     "Location": "37 41 77th Street\nQueens, NEW YORK 10302\n(40.63083331110846, -74.13773429869889)"
   },
   {
@@ -689,7 +630,6 @@
     "BOROUGH / COMMUNITY": "Queens",
     "AGENCY": "New Immigrant Community Empowerment (NICE)",
     "Contact Number": "718.545.4040",
-    "Grade Level / Age Group": "All Ages",
     "Location": "31 09 Newtown Avenue\nQueens, NEW YORK 11102\n(40.77152402451418, -73.92643545073543)"
   },
   {
@@ -698,7 +638,6 @@
     "BOROUGH / COMMUNITY": "Staten Island",
     "AGENCY": "Make the Road New York",
     "Contact Number": "718.565.8500 718.727.1222",
-    "Grade Level / Age Group": "18+",
     "Location": "479 Port Richmond Av\nStaten Island, NEW YORK 10302\n(40.63093452909704, -74.13901464968129)"
   }
 ]
